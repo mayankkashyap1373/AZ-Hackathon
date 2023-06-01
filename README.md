@@ -1,5 +1,4 @@
-# AZ-Hackathon
-# Competitive Programming Problem Scraper
+# AZ-Hackathon (Competitive Programming Problem Scraper)
 
 This repository contains scripts for scraping problem links from popular competitive programming platforms: LeetCode, Codeforces, and CodeChef. The scraped data is stored in JSON files.
 
