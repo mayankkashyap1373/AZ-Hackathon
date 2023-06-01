@@ -30,6 +30,6 @@ codeforcesScrapedData.json: Contains scraped problem links from Codeforces.
 codechefScrapedData.json: Contains scraped problem links from CodeChef.
 Each JSON file contains an array of problem links.
 
-Disclaimer
+## Disclaimer
 These scripts are for educational purposes only. Please respect the terms of service of the respective platforms.
 
