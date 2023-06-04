@@ -24,10 +24,10 @@ Replace <script-name.js> with the name of the script you want to run.
 ## Data
 ### The scraped data is stored in the following JSON files:
 
-leetcodeScrapedData.json: Contains scraped problem links from LeetCode.
-codeforcesScrapedData.json: Contains scraped problem links from Codeforces.
-codechefScrapedData.json: Contains scraped problem links from CodeChef.
-Each JSON file contains an array of problem links.
+### leetcodeScrapedData.json: Contains scraped problem links from LeetCode.
+### codeforcesScrapedData.json: Contains scraped problem links from Codeforces.
+### codechefScrapedData.json: Contains scraped problem links from CodeChef.
+### Each JSON file contains an array of problem links.
 
 ## Disclaimer
 These scripts are for educational purposes only. Please respect the terms of service of the respective platforms.
